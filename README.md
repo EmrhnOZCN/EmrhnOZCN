@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emirhan Özcan</h1>
-<h3 align="center">Emirhan Özcan is a self-motivated person with a passion for learning. He believes that every day should be better equipped than the day before. He studied Industrial Maintenance and Repair in high school, but his interest in software led him to study computer engineering at university. I am currently on my way to become a Java backend developer.</h3>
+<h3 align="center">I am progressing in the field of computer engineering with my passion for learning and self-improvement. The exciting possibilities of the technology and software world motivate me even more every day. Along with my problem solving skills, I value teamwork, I like to collaborate to achieve common goals. I am constantly improving myself to stay up to date in an ever-changing digital world. I am moving forward with excitement to take part in innovative projects and push the boundaries of technology. I am looking for opportunities to make my passion for technology a reality and achieve great things together with others.".</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
