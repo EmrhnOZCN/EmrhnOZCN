@@ -1,4 +1,5 @@
-
+# 💫 About Me:
+"Hello, I'm Emirhan Özcan. I am progressing in the field of computer engineering with my passion for learning and self-improvement. The exciting possibilities of the technology and software world motivate me even more every day. Along with my problem solving skills, I value teamwork, I like to collaborate to achieve common goals. I am constantly improving myself to stay up to date in an ever-changing digital world. I am moving forward with excitement to take part in innovative projects and push the boundaries of technology. I am looking for opportunities to make my passion for technology a reality and achieve great things together with others."
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emirhan-özcan-b40515230/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@emrhnozcn) 
 
