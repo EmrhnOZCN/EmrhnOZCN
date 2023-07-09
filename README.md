@@ -19,4 +19,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=EmrhnOZCN&icon=6&color=1)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/EmrhnOZCN/EmrhnOZCN/blob/output/github-contribution-grid-snake.gif)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
