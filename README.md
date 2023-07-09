@@ -20,5 +20,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=EmrhnOZCN&icon=6&color=1)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/{{EmrhnOZCN}}/{{EmrhnOZCN}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/EmrhnOZCN/EmrhnOZCN/blob/output/github-contribution-grid-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
