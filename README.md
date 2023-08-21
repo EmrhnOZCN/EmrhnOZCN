@@ -1,8 +1,11 @@
 # 💫 About Me:
 "Hello, I'm Emirhan Özcan. I am progressing in the field of computer engineering with my passion for learning and self-improvement. The exciting possibilities of the technology and software world motivate me even more every day. Along with my problem solving skills, I value teamwork, I like to collaborate to achieve common goals. I am constantly improving myself to stay up to date in an ever-changing digital world. I am moving forward with excitement to take part in innovative projects and push the boundaries of technology. I am looking for opportunities to make my passion for technology a reality and achieve great things together with others."
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emirhan-özcan-b40515230) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@emrhnozcn) 
+<p align="left">
+<a href="https://linkedin.com/in/emirhan-özcan-b40515230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emirhan-özcan-b40515230" height="30" width="40" /></a>
+<a href="https://medium.com/@emrhnozcnceng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@emrhnozcnceng" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/emirhanozcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="emirhanozcan" height="30" width="40" /></a>
+</p>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
